@@ -9,7 +9,7 @@ I'm Rotem, a young software developer from Israel. I mostly code in Java but I k
 Right now, I'm working on a couple of cool projects:
 
 * A Java client for Israel's most used digital school management system, Mashov ([rootatkali/MashovAPI](https://github.com/rootatkali/MashovAPI))
-* A cross-platform LaTeX editor (*sooooon*)
+* A cross-platform LaTeX editor ([kfaryarok/ABUELA](https://github.com/kfaryarok/ABUELA))
 * A bunch of other projects I can't announce yet... :wink:
 
 ### Fun facts about me
