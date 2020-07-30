@@ -17,7 +17,7 @@ Right now, I'm working on a couple of cool projects:
 * I occasionally write
 * I am a huge Eurovision nerd
 
-### You can find me on...
+### Find me on...
 * [PayPal](https://paypal.me/rootatkali) - Support my projects!
 * [rootatkali.me](https://rootatkali.me) - My portfolio (WIP)
 * [Twitter](https://twitter.com/ilaktatoor)
