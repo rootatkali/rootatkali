@@ -1,6 +1,6 @@
 ## rootatkali
 
-``` java
+```java
 System.out.println("Welcome!");
 ```
 
