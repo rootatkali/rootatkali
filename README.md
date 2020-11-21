@@ -20,8 +20,8 @@ Right now, I'm working on a couple of cool projects:
 ### Find me on...
 * [PayPal](https://paypal.me/rootatkali) - Support my projects!
 * [rootatkali.me](https://rootatkali.me) - My portfolio
-* [Twitter](https://twitter.com/ilaktatoor)
-* [Instagram](https://www.instagram.com/rootatkali)
-* [Reddit](https://www.reddit.com/u/rootatkali)
+* [Twitter](https://twitter.com/ilaktatoor) - Where I rant about things
+* [Instagram](https://www.instagram.com/rootatkali) - Where I take pictures of things
+* [Reddit](https://www.reddit.com/u/rootatkali) - Where I upvote things
 
 My pronouns are he/him/his.
